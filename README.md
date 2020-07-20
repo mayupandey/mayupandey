@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi,Hola,Bonjour,Namaste there 
+### I'am Mayank Pandey👋
 
-<!--
-**mayupandey/mayupandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Benza (Educational)
+- 🌱 I’m currently learning Flutter
+- 🤔 I’m looking for help with Benza App
+- 📫 How to reach me: mayupandey1999@gmail.com
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=mayupandey&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+
+
+##
+### Connect with me:
+
+ [<img src="https://img.icons8.com/color/48/000000/instagram.png" width="3.5%">](https://www.instagram.com/geek_programmer/)[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/mayank-pandey-5710b5134/)[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/mackpandey) 
