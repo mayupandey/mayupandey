@@ -1,9 +1,7 @@
-### Hi,Hola,Bonjour,Namaste there 
+### Namaste 🙏  
 ### I'am Mayank Pandey👋
 
 
-
-Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me: mayupandey1999@gmail.com
