@@ -18,5 +18,7 @@
 
 ##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayupandey)
+
+##
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mayupandey)
 
