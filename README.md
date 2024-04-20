@@ -5,9 +5,10 @@
 
 
 
-- 🌱 I’m currently learning Flutter
-- 🛠 Building Daju Meals, Benja
-- 📫 How to reach me: mayupandey1999@gmail.com
+- 🌱 I’m currently exploring Dev Ops
+- 🛠 Building Daju Meals, Benja, Daju Ride
+- 🧙🏻 Flutter Mage
+- 📫 How to reach me: mayupandey1999@gmail.com, developermayankpandey@gmail.com
 
 
 
