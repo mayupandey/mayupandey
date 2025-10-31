@@ -1,6 +1,6 @@
 ### Namaste 🙏  
 ### I'am Mayank Pandey👋
-### Latest Project: MSGREACH
+### Latest Project: Tagzy
 (https://tagzy.app)
 
 
