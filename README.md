@@ -1,14 +1,14 @@
 ### Namaste 🙏  
 ### I'am Mayank Pandey👋
 ### Latest Project: MSGREACH
-(https://msgreach.com)
+(https://tagzy.app)
 
 
 
-- 🌱 I’m currently exploring Dev Ops
-- 🛠 Building Daju Meals, Benja, Daju Ride
+- 🌱 I’m currently exploring Web3 
+- 🛠 Built Daju Meals, Benja, Daju Ride
 - 🧙🏻 Flutter Mage
-- 📫 How to reach me: mayupandey1999@gmail.com, developermayankpandey@gmail.com
+- 📫 How to reach me: developermayankpandey@gmail.com
 
 
 
